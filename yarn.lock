@@ -892,10 +892,10 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@bahmutov/add-typescript-to-cypress@2.0.6":
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/@bahmutov/add-typescript-to-cypress/-/add-typescript-to-cypress-2.0.6.tgz#4dd52525ae9e542cb394b7e37a7fc8923cf0bc4f"
-  integrity sha512-xn8mCkLucl0gO772tFCXMKTC1web2gGbsvhoLGYumc/PiB790GCgarBLk+Pdto5yF2Shq1ljMJ5NDALH0onB3A==
+"@bahmutov/add-typescript-to-cypress@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@bahmutov/add-typescript-to-cypress/-/add-typescript-to-cypress-2.1.0.tgz#1ab992b353f3dba469dc47cd8ac50efe57d8416f"
+  integrity sha512-vHoQlUAwDTEDEd5SiFOgPqMK+q9Q4pkJn/bvgvM9IV9gc97BkNfRzp92mKRiJ6garcxfVpU9+nx3imh0LbPL8w==
   dependencies:
     "@cypress/webpack-preprocessor" "4.0.3"
     am-i-a-dependency "1.1.2"
